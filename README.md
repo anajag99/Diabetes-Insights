@@ -38,5 +38,5 @@ This project is licensed under the [MIT License](LICENSE), which means you are f
 
 ## Contact
 
-For any questions, feedback, or inquiries about PoliceShootAnalysis, please contact [Anagha Jagtap/jagtapanagha350@gmail.com] or open an issue on the GitHub repository.
+For any questions, feedback, or inquiries about PoliceShootAnalysis, please contact [Anagha Jagtap] or open an issue on the GitHub repository.
 
